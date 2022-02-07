@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\LandController;
+use App\Http\Controllers\BuildingController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
